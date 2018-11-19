@@ -26,8 +26,8 @@ class Main():
         self.REFERENCE_TIME_VALUE = 1536678000 # 2018/09/12 00:00:00
         #API_KEY = '2jGLTxlqDt0ajmVjzf4DGw_T'
         #API_SECRET = 's6PotvlvsVMPHWZP71bvfRB5t3um22P3HWgw1mM-PcPxvajK'
-        API_KEY = 'bQz_JX6S7rHTl98LcsMw8tdS'
-        API_SECRET = 'wc3vCSy8CfFITO5I2gGdswxK1JuBabBpksTr1DwO6j9ZrCNl'
+        API_KEY = 'API_KEY'
+        API_SECRET = 'API_SECRET'
         ENDPOINT = 'https://www.bitmex.com/api/v1'
         self.SYMBOL = 'XBTUSD'
         SYMBOL = self.SYMBOL
